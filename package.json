@@ -16,10 +16,6 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/knerok/project-lvl3-s464/issues"
-  },
-  "homepage": "https://github.com/knerok/project-lvl3-s464#readme",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.4",
